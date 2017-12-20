@@ -1,0 +1,22 @@
+{
+  "name": "blogrestapi",
+  "version": "1.0.0",
+  "description": "node app to make a data base in mongodb using mongoose and expressjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rankitbishnoi/blogRestAPI.git"
+  },
+  "author": "rankit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rankitbishnoi/blogRestAPI/issues"
+  },
+  "homepage": "https://github.com/rankitbishnoi/blogRestAPI#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
